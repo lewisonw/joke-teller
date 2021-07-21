@@ -71,6 +71,7 @@ button{
   .container{
     background-size: cover;
     background-position: center center;
+    height: 90vh;
   }
 
   button{
@@ -80,7 +81,7 @@ button{
 
   .jokeButtonContianer{
     position:absolute;
-    height: 100vh;
+    height: 90vh;
     width: 100vw;
     z-index: 10;
     display: flex;
